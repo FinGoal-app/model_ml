@@ -1,2 +1,2 @@
 # ML-Predict-Savings
-This repository is created for a machine learning model to predict monthly savings.
+Hi, Jason here! This repository is dedicated to developing a machine learning model for predicting monthly savings.
